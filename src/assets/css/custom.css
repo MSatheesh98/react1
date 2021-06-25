@@ -1,0 +1,112 @@
+ 
+.jumbotron
+{
+    background-image: url(https://bit.ly/3hP7LIw);
+    height: 550px;
+    border-top: 2px  solid white;
+    border-bottom: 2px  solid white;
+     
+     
+}
+
+img
+{
+    width: 50%;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 180px;
+ 
+    
+
+}
+.name
+{
+    margin-top: 170px;
+    
+}
+ 
+ .sr
+ {
+     border: none;
+ }
+ .font
+ {
+     font-weight: bold;
+     margin-top: 15px;
+     margin-bottom: 30px;
+ }
+ .message
+ {
+     resize: none;
+     height: 200px;
+     width: 96%;
+     margin-left: 30px;
+      
+ }
+ .width
+ {
+     width: 10%;
+     height: 50px;
+     margin: 10px;
+     font-weight: bold;
+     font-family: Verdana;
+     margin-bottom: 30px;
+     
+ }
+  
+ 
+ .margin1
+ {
+     margin-left: 75%;
+ }
+ .margin1:hover
+ {
+     background-color: red;
+ }
+ .margin2:hover
+ {
+     background-color:green;
+ }
+ .icons:hover
+
+ {
+    transform:scale(1.5);
+    transition:all 1s;
+     
+ }
+ .web
+ {
+     color: aqua;
+ }
+ button
+ {
+     background-color: #c773c9;
+ }
+  .table-light
+  {
+      background-color: #06999e;
+
+  }
+  .local
+  {
+      background-color: #4fe084;
+  }
+  .edit
+  {
+      background-color:  #396b68;
+      
+  }
+  .forv
+  {
+      width: 35%;
+  }
+  .text
+  {
+      color: red;
+  }
+  .edit1
+  {
+      background-color:#2c3c5e;
+      
+  }
+  

@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Satheesh_Modala",
+      "mail": "satt1235@gmail.com",
+      "phone": 9825451332
+    },
+    {
+      "name": "Vishwa_Mohan",
+      "mail": "varun8745@gmail.com",
+      "phone": 8547212251,
+      "id": 2
+    },
+    {
+      "name": "Harsha_Narsing_Goud",
+      "mail": "harish_goud090@gmail.com",
+      "phone": "8898776623",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "TejaSree_Modala",
+      "mail": "TejaM09090@gmail.com",
+      "phone": 9866251447
+    },
+    {
+      "id": 5,
+      "name": "Mohini_Vihari",
+      "mail": "mohiniV8745@gmail.com",
+      "phone": 8854123698
+    },
+    {
+      "id": 6,
+      "name": "Varsha_Pandey",
+      "mail": "varshp22140@gmail.com",
+      "phone": 9985471232
+    },
+    {
+      "id": 7,
+      "name": "Varun_Yadav",
+      "mail": "varunyadav98@gmail.com",
+      "phone": 7778451269
+    },
+    {
+      "id": 8,
+      "name": "Lalitha_Neha",
+      "mail": "lalithavh9898@gmail.com",
+      "phone": 7845125869
+    },
+    {
+      "id": 9,
+      "name": "Nehan_Mothy",
+      "mail": "nehan_mothey784@gmail.com",
+      "phone": 8897201456
+    },
+    {
+      "id": 10,
+      "name": "Mohith_kumar",
+      "mail": "Mohithkumar656@gmail.com",
+      "phone": 9865147286
+    },
+    {
+      "id": 11,
+      "name": "Chinnu_Vijay",
+      "mail": "chinnu143@gmail.com",
+      "phone": 7758136521
+    },
+    {
+      "id": 12,
+      "name": "Meghana_Moha",
+      "mail": "meghana_5541@gmail.com",
+      "phone": 8825143698
+    },
+    {
+      "name": "DivyaM",
+      "mail": "divya555@gmail.com",
+      "phone": "9685741236",
+      "id": 13
+    },
+    {
+      "name": "SureshKumar",
+      "mail": "suresh54542@gmail.com",
+      "phone": "7744112255",
+      "id": 14
+    },
+    {
+      "name": "Grumurthy.L",
+      "mail": "Guru89452#@gmai.com",
+      "phone": "9985472214",
+      "id": 15
+    }
+  ]
+}

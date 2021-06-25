@@ -1,0 +1,52 @@
+export default function EmpAction()
+{
+    return ({
+        
+        type:'EmpAction',
+        payload:
+        [
+            {
+                id:1,
+                name:'Satheesh_Kumar',
+                mail:'satheesh01423@gmail.com',
+                phone:9866142533
+            },
+            {
+                id:2,
+                name:'Sandeep_Yadva',
+                mail:'sandeepKumar7785@gmail.com',
+                phone:8814253600
+            },
+            {
+                id:3,
+                name:'Vijay_Vikram',
+                mail:'vijay982201@gmail.com',
+                phone:7789541203
+            },
+            {
+                id:4,
+                name:'Dheeraj_Kumar',
+                mail:'dheerajk741@gmail.com',
+                phone:7741258369
+            },
+            {
+                id:5,
+                name:'Srilatha_Kumari',
+                mail:'srikumari5512@gmail.com',
+                phone:8845123697
+            },
+            {
+                id:6,
+                name:'Vasundhara_Moka',
+                mail:'vasumoka1102@gmail.com',
+                phone:8256471369
+            },
+            {
+                id:7,
+                name:'Swapna_Sundari',
+                mail:'swapnasundari451@gmail.com',
+                phone:9956230147
+            }
+        ]
+    })
+}
